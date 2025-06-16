@@ -1,0 +1,7 @@
+fastmcp
+mcp
+pydantic
+httpx
+readabilipy
+markdownify
+python-docx
